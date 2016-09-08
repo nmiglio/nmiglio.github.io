@@ -1,0 +1,14 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+  excerpt: "What is in my mind"
+
+- title: About
+  url: /about/
+  excerpt: "All about me"
+  image: bio-photo.jpg
+
+- title: CV
+  url: /cv/
+  excerpt: "Guess what?"
