@@ -5,6 +5,11 @@
   excerpt: "What is in my mind"
   image: vintage.png
 
+- title: Gallery
+  url: /gallery/
+  excerpt: "I like to take picture"
+  image: gallery.png
+  
 - title: About
   url: /about/
   excerpt: "All about me and this page"
