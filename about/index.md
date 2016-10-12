@@ -5,6 +5,7 @@ date: 2016-10-12
 modified: 2016-10-12
 image:
    feature: jekyll-logo-light.png
+   teaser: jekyll-logo-light_t.png
 share: false
 ads: false
 
