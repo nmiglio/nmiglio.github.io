@@ -7,8 +7,7 @@
 - title: About
   url: /about/
   excerpt: "All about me and this page"
-  image: bio-photo.jpg
-
+  image: map-compass.png
 - title: CV
   url: /cv/
   excerpt: "Guess what?"
