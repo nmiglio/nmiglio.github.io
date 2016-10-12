@@ -2,7 +2,7 @@
 layout: article
 title: "Hank Quinlan, Horrible Cop, Launches Site"
 date: 2016-09-07
-# modified: 2014-08-27
+modified: 2016-10-12
 image:
   feature: Fiat_500.jpg
 
