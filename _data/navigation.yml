@@ -3,11 +3,13 @@
 - title: Blog
   url: /blog/
   excerpt: "What is in my mind"
+  image: vintage.png
 
 - title: About
   url: /about/
   excerpt: "All about me and this page"
   image: map-compass.png
+  
 - title: CV
   url: /cv/
   excerpt: "Guess what?"
