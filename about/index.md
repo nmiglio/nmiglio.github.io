@@ -3,6 +3,8 @@ layout: article
 title: "About this page"
 date: 2016-10-12
 modified: 2016-10-12
+image:
+   feature: https://jekyll.github.io/brand/jekyll-logo-light-solid.png
 share: false
 ads: false
 
