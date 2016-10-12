@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Hank Quinlan's CV
+layout: article
+title: "Hank Quinlan's CV"
 image:
    feature: footprints.jpg
 ---
