@@ -4,7 +4,7 @@ title: "About this page"
 date: 2016-10-12
 modified: 2016-10-12
 image:
-   feature: https://jekyll.github.io/brand/jekyll-logo-light-solid.png
+   feature: jekyll-logo-light.png
 share: false
 ads: false
 
