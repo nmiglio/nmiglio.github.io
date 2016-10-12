@@ -2,6 +2,8 @@
 layout: home
 permalink: /
 title: "Latest Posts"
+image:
+  feature: aurora.jpg
 ---
 
 <div class="tiles">
