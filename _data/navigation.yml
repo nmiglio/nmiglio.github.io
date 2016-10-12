@@ -7,12 +7,12 @@
 
 - title: Gallery
   url: /gallery/
-  excerpt: "I like to take picture"
+  excerpt: "I like to take pictures"
   image: gallery.png
   
 - title: About
   url: /about/
-  excerpt: "All about me and this page"
+  excerpt: "All about this page"
   image: map-compass.png
   
 - title: CV
