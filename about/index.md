@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "About this page"
-date: 2016-10-12T15:53:20-02:00
-modified: 2016-10-12T15:56:44-02:00
+date: 2016-10-12
+modified: 2016-10-12
 share: false
 ads: false
 
