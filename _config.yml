@@ -5,12 +5,14 @@ description: "This is just a bunch of confusing random notes."
 logo: smile120x120.gif # 120x120 px default image used for Twitter summary card
 teaser: matrixwall.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-# url: https://nmiglio.github.io
+
+url: https://nmiglio.github.io # Used to generate absolute URLs. DO NOT use trailing / ! 
+# url: http://localhost:4000 # Use for local development
+
 feed:
   path: atom.xml
 
 # Jekyll configuration
-
 sass:
   sass_dir: _sass
   style: compressed
@@ -26,9 +28,9 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Nicola Migliorini
+  email: 
+  twitter: NicMigliorini
   google:
     ad-client:
     ad-slot:
