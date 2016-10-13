@@ -5,6 +5,7 @@ date: 2016-10-12
 modified: 2016-10-12
 share: false
 ads: false
+permalink: /about.html
 
 ---
 
