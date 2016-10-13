@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I like to take pictures
+title: "I like to take pictures"
 permalink: /gallery/
 ---
 <h1>{{ page.title }}</h1>
