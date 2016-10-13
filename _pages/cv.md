@@ -5,6 +5,7 @@ image:
    feature: footprints.jpg
 ads: false
 share: false
+permalink: /cv/
 
 ---
 
