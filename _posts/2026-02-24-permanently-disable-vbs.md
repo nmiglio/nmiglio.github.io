@@ -27,7 +27,7 @@ Here’s the frustrating part. Even if you get the registry settings just right,
 
 ### The Definitive Fix
 
-I was determined to find the correct and permanent way to handle this is. and I found it in a powerful PowerShell script provided by Microsoft itself, called the ['Device Guard and Credential Guard readiness tool'][https://www.microsoft.com/en-us/download/details.aspx?id=53337].
+I was determined to find the correct and permanent way to handle this is. and I found it in a powerful PowerShell script provided by Microsoft itself, called the [Device Guard and Credential Guard readiness tool][dg-readiness].
 
 This script was the final word on the matter. It does everything the right way. I ran it with the `-Disable` flag. It cleaned up not only all the necessary registry keys automatically (so you I didn't have to), but it also performed some pre-boot magic. Using the Boot Configuration Data (`bcdedit`) tool it scheduled a special task for the next boot telling my computer: "Hey, before you even load Windows next time, run this special program (`SecConfig.efi`) and turn off VBS at the firmware level." This was it.
 
@@ -46,6 +46,8 @@ Then came final moment of truth. Once back in Windows, I opened a Command Prompt
 And this was it.I successfully navigated the labyrinth of Windows settings, bypassed the registry trap, and used the right crushing tool to disable VBS for good. Now I can go enjoy the extra horsepower and smoother performance. 
 
 I think I earned them.
+
+[dg-readiness]: https://www.microsoft.com/en-us/download/details.aspx?id=53337
 
 
 
