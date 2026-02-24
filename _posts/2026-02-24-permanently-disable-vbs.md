@@ -13,5 +13,8 @@ So why would you think about disabling it? Well.. **Virtualization Based Securit
 ## There is no simple toggle to switch
 ## Opting out is not that easy
 ## After a reboot we have to start over
+## The definitve Fix
+## Check after reboot
+## Done
 
 
